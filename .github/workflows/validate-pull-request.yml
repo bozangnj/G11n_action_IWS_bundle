@@ -10,10 +10,8 @@ jobs:
     steps:
       - name: Checkout source repository
         uses: actions/checkout@v2
-      - name: test token
-        run: echo "${{ secrets.GITHUB_TOKEN }}"
       - name: G11n Radar
-        uses: citrix-workspace/g11n-scan@master
+        uses: citrix-workspace/g11n-scan@bugfix_1
         with:
           repoToken: ${{secrets.GITHUB_TOKEN}}
           skip: 'bundles/coming_soon/,bundles/dip/Citrix/com.sapho.services.zendesk.ZendeskService/'
