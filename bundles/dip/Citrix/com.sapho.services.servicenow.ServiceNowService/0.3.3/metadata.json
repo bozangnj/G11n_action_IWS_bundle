@@ -6,7 +6,7 @@
   "title" : "ServiceNow",
   "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/ServiceNow.9a68dd66918b05acfbe29ac251e33a8d.svg",
   "masVersion" : "1.12.9-SNAPSHOT",
-  "categories" : [ "LEGACY" ],
+  "categories" : [ "LEGACY", "WEB_SERVICES" ],
   "created" : "2020-05-19T15:29:34",
   "supportsOAuthForActions" : true,
   "i18nLanguages" : [ "de", "en", "es", "fr", "it", "ja", "nl", "pt-BR", "zh-CN" ],

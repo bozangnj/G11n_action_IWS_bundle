@@ -397,6 +397,8 @@
     "81285fe3-a522-4c2c-99b3-7fecaaf82f5a" : "Brève description",
     "07b8235c-d620-458f-988c-d0c5b8aa38cf" : "Soumettre incident",
     "8fef7ae6-6cd2-4b93-8e12-fa5e68669f6d" : "Sévérité",
-    "86c10fca-5f76-40ef-abd7-f29dc45587a6" : "Catégorie"
+    "86c10fca-5f76-40ef-abd7-f29dc45587a6" : "Catégorie",
+	"123456789": "Thank you for visiting {1}"
+	
   }
 }
