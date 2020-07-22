@@ -7,7 +7,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: "false"
     steps:
       - name: Checkout source repository
         uses: actions/checkout@v2
